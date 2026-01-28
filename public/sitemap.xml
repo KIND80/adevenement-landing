@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://adevenement.fr/</loc>
+    <lastmod>2026-01-28T10:37:00.831034+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://adevenement.fr/politique-confidentialite</loc>
+    <lastmod>2026-01-28T10:37:00.831034+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://adevenement.fr/conditions-generales</loc>
+    <lastmod>2026-01-28T10:37:00.831034+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://adevenement.fr/services/{type}</loc>
+    <lastmod>2026-01-28T10:37:00.831034+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+</urlset>

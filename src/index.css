@@ -1,0 +1,62 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 43 74% 52%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 228 57% 15%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 95 59% 20%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 43 74% 52%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-white text-navy font-body;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  /* Optimization for fonts */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+    font-display: swap; 
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Performance optimization for animations */
+.will-change-transform {
+  will-change: transform;
+}
+.will-change-opacity {
+  will-change: opacity;
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-gold to-amber-500 bg-clip-text text-transparent;
+  }
+}
