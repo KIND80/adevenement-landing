@@ -9,7 +9,7 @@ export const businessInfo = {
   email: "Contact@adevenement.fr",
   phone: "+33784646530",
   address: {
-    streetAddress: "14 rue Saint Olivier",
+    streetAddress: "76 Sente à My, 57000 Metz",
     addressLocality: "Metz",
     postalCode: "57000",
     addressCountry: "FR",

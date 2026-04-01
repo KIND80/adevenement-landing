@@ -13,62 +13,62 @@ const GallerySection = () => {
 
   const images = [
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/3c1821ba8bac3989cd84bc13e2d1f2f8.png',
+      url: '/images/Archedeceremonielaïqueverteathionville.jpeg',
       category: 'Mariage',
       alt: 'Logo ADEVENEMENT Décoration Metz',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/0cb167beb58867412792beb613ea950e.jpg',
+      url: '/images/Archedemariageromantiquerosepoudremoselle.jpeg',
       category: 'Mariage',
       alt: 'Table de mariage élégante à Metz avec décoration florale blanche',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/7a1e80703fe3edfa0ebbf23fa909fe92.jpg',
+      url: '/images/Archefloraleblanchepourbaptemeaforbach.jpeg',
       category: 'Mariage',
       alt: 'Décoration de table mariage Thionville, vaisselle dorée',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/94f75220a8186ea0aa46e923d792ca4d.jpg',
+      url: '/images/Archerondeelegantedoreepourphotoboothmetz.jpeg',
       category: 'Mariage',
       alt: 'Table d\'honneur mariage Forbach, décoration prestige',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/aa27c48ad19d6114caa2c1d47d0712ac.jpg',
+      url: '/images/Compositionfloralemariagemetzcentredetablehaut.jpeg',
       category: 'Mariage',
       alt: 'Composition florale mariage Metz, centre de table haut',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/4622a7f8435370f916664969f6f6fd06.jpg',
+      url: '/images/Decorationanniversairetropicalmetzarcheballonsverte.jpeg',
       category: 'Mariage',
       alt: 'Plan de table mariage original en Lorraine',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/f7af019884dbfd7b8a3e5e2e2210b078.jpg',
+      url: '/images/Decorationdetablemariagethionvillevaisselledoree.jpeg',
       category: 'Anniversaire',
       alt: 'Décoration anniversaire tropical Metz, arche ballons verte',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/c1c5966f9c702ded2ba03226a304082b.jpg',
+      url: '/images/Decorationevenementiellesalledereceptionlorraine.jpg',
       category: 'Événements',
       alt: 'Arche de cérémonie laïque verte à Thionville',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/cce910b9862d4ed671466cdd89c78489.jpg',
+      url: '/images/WhatsAppImage2026-01-28at10.27.11.jpeg',
       category: 'Événements',
       alt: 'Arche florale blanche pour baptême à Forbach',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/daa46f55f64c7d008e8bf5e18406b331.jpg',
+      url: '/images/Plandetablemariageoriginalenlorraine.jpeg',
       category: 'Événements',
       alt: 'Arche de mariage romantique rose poudré Moselle',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/ea04b5b5f1e2d218cbbbb8c532db1d81.jpg',
+      url: '/images/Tabledemariageeleganteametzavecdecorationfloraleblanche.jpeg',
       category: 'Événements',
       alt: 'Arche ronde élégante dorée pour photobooth Metz',
     },
     {
-      url: 'https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/d2d01bc9af8b51e7a540aa1d8aeed683.jpg',
+      url: '/images/Tabledhonneurmariageforbachedecorationprestige.jpeg',
       category: 'Événements',
       alt: 'Décoration événementielle salle de réception Lorraine',
     },

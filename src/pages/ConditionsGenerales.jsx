@@ -61,7 +61,7 @@ const ConditionsGenerales = () => {
                 <p>
                   <strong>ADEVENEMENT</strong>
                   <br />
-                  Adresse : 14 rue Saint-Livier, 57000 Metz, France
+                  Adresse : 76 Sente à My, 57000 Metz, France
                   <br />
                   Contact : contact@adevenement.fr
                 </p>

@@ -43,7 +43,7 @@ const PartnersSection = () => {
                 {/* Logo/Badge */}
                 <div className="flex-shrink-0">
                   <img
-                    src="https://horizons-cdn.hostinger.com/2dcc7d87-8ec9-4207-963e-c7d135acdbce/8019d85dd9c4463c1e6be6a479af60e1.png"
+                    src="/images/mariages.netimage.png"
                     alt="Mariages.net - Recommandé"
                     className="w-32 h-auto"
                   />
